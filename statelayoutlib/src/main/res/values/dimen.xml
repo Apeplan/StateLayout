@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="g_loading_lineSize">2dp</dimen>
+    <dimen name="g_loading_minSize">28dp</dimen>
+
+    <dimen name="progress_width">35dp</dimen>
+    <dimen name="progress_height">35dp</dimen>
+</resources>
