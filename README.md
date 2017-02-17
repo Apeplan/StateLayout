@@ -5,6 +5,6 @@
 ![enter description here][1]
 
 
-  [1]: https://github.com/Apeplan/StateLayout/screenshot/screenshot.gif
+  [1]: https://github.com/Apeplan/StateLayout/blob/master/screenshot/screenshot.gif
   
   
