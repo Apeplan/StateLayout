@@ -32,7 +32,7 @@ public class StateViewHelperController {
         textView.setText(R.string.common_no_network_msg);
 
         ImageView imageView = (ImageView) layout.findViewById(R.id.message_icon);
-        imageView.setImageResource(R.drawable.state_net_error);
+        imageView.setImageResource(R.drawable.state_network_none);
 
         if (null != onClickListener) {
             layout.setOnClickListener(onClickListener);
@@ -59,7 +59,7 @@ public class StateViewHelperController {
         }
 
         ImageView imageView = (ImageView) layout.findViewById(R.id.message_icon);
-        imageView.setImageResource(R.drawable.state_error);
+        imageView.setImageResource(R.drawable.state_crazy_error);
 
         if (null != onClickListener) {
             layout.setOnClickListener(onClickListener);
