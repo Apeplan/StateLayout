@@ -6,4 +6,4 @@
 
 
   [1]: https://github.com/Apeplan/StateLayout/blob/master/screenshot/screenshot.gif
-  
+最早是从[简阅](https://github.com/chentao0707/SimplifyReader)中抽取出来放到项目中的。如果妨害了作者的权益，请及时告知
